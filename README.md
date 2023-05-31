@@ -1,7 +1,7 @@
 <h1 align="center">  Hi there 👋, I'm <a href="https://www.linkedin.com/in/mihirsaidudekula/" target="_blank"> Mihir Sai Dudekula </a> </h1>
 
 #### I am pursuing Computer Science Engineering at Ramaiah Institute of Technology  
-As a newbie, I'm eager to explore new opportunities and expand my knowledge.
+As a Fresher, I'm eager to explore new opportunities and expand my knowledge.
 I actively seek out new challenges and am willing to take risks in order to grow and develop as a person.
 I have a genuine passion for my field of study and I believe that my curiosity and hunger for learning motivate me to put in the time and effort required to excel academically and professionally.
 I'm excited to learn from the industry professionals and their experiences, and I understand the value of building a relationships with my peers and mentors.

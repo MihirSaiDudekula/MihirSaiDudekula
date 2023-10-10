@@ -53,12 +53,38 @@ Feel free to connect with me on my socials.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mihirsaidudekula&theme=monokai&hide_border=false&include_all_commits=true&show_icons=true&count_private=true)<br/>
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MihirSaiDudekula&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=mihirsaidudekula&theme=monokai)](https://git.io/streak-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirsaidudekula&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MihirSaiDudekula&show_icons=true&locale=en&layout=compact&theme=monokai" alt="ovi" align="center" margin= 4px/>  
  [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mihirsaidudekula&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihirsaidudekula&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=MihirSaiDudekula&theme=monokai&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/github/followers/MihirSaiDudekula?style=social"
+         alt="GitHub followers">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/github/stars/MihirSaiDudekula/blog?style=social"
+         alt="GitHub stars">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/github/forks/MihirSaiDudekula/blog?style=social"
+         alt="GitHub forks">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/github/last-commit/MihirSaiDudekula/blog?style=flat"
+         alt="GitHub last commit">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/github/issues/MihirSaiDudekula/blog?style=flat"
+         alt="GitHub issues">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/github/license/Het-Joshi/blog?style=flat"
+         alt="GitHub license">
+  </a>
+</p>
 
 
 

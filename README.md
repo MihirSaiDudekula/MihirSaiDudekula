@@ -1,24 +1,26 @@
-<h1 align="center">  Hi there 👋, I'm <a href="https://www.linkedin.com/in/mihirsaidudekula/" target="_blank"> Mihir Sai Dudekula </a> </h1>
+<h1 align="center">Hi there! 👋 I'm <a href="https://www.linkedin.com/in/mihirsaidudekula/" target="_blank">Mihir Sai Dudekula</a></h1>
 
-#### I am pursuing Computer Science Engineering at Ramaiah Institute of Technology  
 ### About Me
 
-👋 Hello, I'm Mihir Sai Dudekula, a passionate software developer with a love for creating innovative web applications.
+👨‍🎓 I am currently pursuing Computer Science Engineering at Ramaiah Institute of Technology.
 
-💻 Im proficient frontend development in HTML, CSS, JavaScript, and frameworks like React and Redux state-management. On the back end, I'm well-versed in Node.js and Express.js, with hands-on experience in MongoDB and working with RESTful APIs.
+🚀 I'm Mihir Sai Dudekula, a passionate software developer with a love for creating innovative web applications.
+
+💻 Proficient in front-end development with HTML, CSS, JavaScript, and frameworks like React and Redux for state management. On the back end, I'm well-versed in Node.js and Express.js, with hands-on experience in MongoDB and working with RESTful APIs.
 
 🌱 I'm constantly exploring the capabilities of emerging technologies like Blockchain, Machine Learning, and WebRTC, aiming to integrate them into my projects for cutting-edge digital experiences.
 
 🌍 Contributing to open-source projects is a way for me to give back to the community that has provided me with so much. Every contribution, no matter how small, is a step towards making software better for everyone.
 
-🎓 With my graduation around the corner in 2026, I'm interested in internships and full-time Software Developer roles. Please feel free to connect with me on my socials..
+🎓 With my graduation expected in 2026, I'm actively seeking internships and full-time Software Developer roles. Feel free to connect with me on my socials.
 
+<p align="center">
+  <a href="https://github.com/MihirSaiDudekula"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40"></a>
+  <a href="https://www.linkedin.com/in/mihir-sai-dudekula-4a2100261/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40"></a>
+  <a href="https://www.instagram.com/the_og_mihir/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40"></a>
+  <a href="https://codepen.io/MihirSaiDudekula"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codepen" height="40"></a>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MihirSaiDudekula)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mihir-sai-dudekula-4a2100261/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/the_og_mihir/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/MihirSaiDudekula)
-  
 ![](https://komarev.com/ghpvc/?username=MihirSaiDudekula)
 
 #### Languages:
@@ -91,11 +93,3 @@
          alt="GitHub license">
   </a>
 </p>
-
-
-
-
-
-
-
-

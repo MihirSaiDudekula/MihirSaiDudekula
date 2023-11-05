@@ -1,12 +1,20 @@
 <h1 align="center">  Hi there 👋, I'm <a href="https://www.linkedin.com/in/mihirsaidudekula/" target="_blank"> Mihir Sai Dudekula </a> </h1>
 
 #### I am pursuing Computer Science Engineering at Ramaiah Institute of Technology  
-As a Fresher, I'm eager to explore new opportunities and expand my knowledge.
-I actively seek out new challenges and am willing to take risks in order to grow and develop as a person.
-I have a genuine passion for my field of study and I believe that my curiosity and hunger for learning motivate me to put in the time and effort required to excel academically and professionally.
-I'm excited to learn from the industry professionals and their experiences, and I understand the value of building a relationships with my peers and mentors.
+### About Me
 
-Feel free to connect with me on my socials.
+👋 Hello, I'm Mihir Sai Dudekula, a passionate software developer with a love for creating innovative web applications.
+
+🚀 I caught the coding bug in high school when I built my first website, and I haven't looked back ever since.
+
+💻 Im proficient frontend development in HTML, CSS, JavaScript, and frameworks like React. On the back end, I'm well-versed in Node.js and Express.js, with hands-on experience in MongoDB and working with RESTful APIs.
+
+🌱 I'm constantly exploring the capabilities of emerging technologies like Blockchain, Machine Learning, and WebRTC, aiming to integrate them into my projects for cutting-edge digital experiences.
+
+🌍 Contributing to open-source projects is a way for me to give back to the community that has provided me with so much. Every contribution, no matter how small, is a step towards making software better for everyone.
+
+🎓 With my graduation around the corner in 2026, I'm interested in internships and full-time Software Developer roles. Please feel free to connect with me on my socials..
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MihirSaiDudekula)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mihir-sai-dudekula-4a2100261/)

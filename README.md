@@ -2,7 +2,7 @@
 
 ### About Me
 
-👨‍🎓 I am currently pursuing Computer Science Engineering at Ramaiah Institute of Technology.
+👨‍🎓 I am currently pursuing Computer Science Engineering at [Ramaiah Institute of Technology](https://msrit.edu/).
 
 🚀 I'm Mihir Sai Dudekula, a passionate software developer with a love for creating innovative web applications.
 

@@ -89,7 +89,10 @@
          alt="GitHub issues">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/github/license/Het-Joshi/blog?style=flat"
+    <img src="https://img.shields.io/github/license/MihirSaiDudekula/blog?style=flat"
          alt="GitHub license">
   </a>
 </p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MihirSaiDudekula&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MihirSaiDudekula&bg_color=282a35&color=ffffff&line=ec7696&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

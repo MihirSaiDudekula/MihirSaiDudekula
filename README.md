@@ -67,30 +67,4 @@
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=MihirSaiDudekula&theme=monokai&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/github/followers/MihirSaiDudekula?style=social"
-         alt="GitHub followers">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/stars/MihirSaiDudekula/blog?style=social"
-         alt="GitHub stars">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/forks/MihirSaiDudekula/blog?style=social"
-         alt="GitHub forks">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/last-commit/MihirSaiDudekula/blog?style=flat"
-         alt="GitHub last commit">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/issues/MihirSaiDudekula/blog?style=flat"
-         alt="GitHub issues">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/license/MihirSaiDudekula/blog?style=flat"
-         alt="GitHub license">
-  </a>
-</p>
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MihirSaiDudekula&bg_color=282a35&color=ffffff&line=ec7696&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

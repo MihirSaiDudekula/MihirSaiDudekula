@@ -23,48 +23,94 @@
 
 ![](https://komarev.com/ghpvc/?username=MihirSaiDudekula)
 
-#### Languages:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-#### Web Development:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ <hr/>
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwindcss,postman,redux,vercel,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,c,java,python,dart,mysql" />
+    <img src="https://skillicons.dev/icons?i=flutter,anaconda,bash,git,github" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">📈 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mihirsaidudekula&theme=monokai&hide_border=false&include_all_commits=true&show_icons=true&count_private=true" width="800">
+  <br/>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MihirSaiDudekula&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" width="800">
+  </a>
+  <br/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=mihirsaidudekula&theme=monokai" width="800">
+  </a>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MihirSaiDudekula&show_icons=true&locale=en&layout=compact&theme=monokai" alt="ovi" width="800">  
+  <br/>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mihirsaidudekula&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" width="800">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihirsaidudekula&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" width="800">
+  </a>
+</div>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MihirSaiDudekula&theme=monokai&no-frame=false&no-bg=false&margin-w=4" width="800">
+  </a>
+</div>
 
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MihirSaiDudekula&theme=monokai&no-frame=false&no-bg=false&margin-w=4">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MihirSaiDudekula&bg_color=282a35&color=ffffff&line=ec7696&point=ffffff&area=true&hide_border=true">
+  </a>
+</p>
+
+ <hr/> 
  
-#### Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-#### Hosting:
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-#### AI/ML:
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-#### Others
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
+<div align="center">
+  <h2>🏆 Trophies 🏆</h2>
+  <br>
+    
+  ![](https://github-profile-trophy.vercel.app/?username=swapnilrao619&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 📈 GitHub Stats
-<!-- [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MihirSaiDudekula&show_icons=true&count_private=true&theme=tokyonight)] -->
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MihirSaiDudekula)   -->
+  <br/>
+</div>
+<hr/>
 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/MihirSaiDudekula)   -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=swapnilrao619&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
+    <br/>
+    <br/>
+  <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=swapnilrao619&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+    <br/> 
+  <img width=400 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=swapnilrao619&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mihirsaidudekula&theme=monokai&hide_border=false&include_all_commits=true&show_icons=true&count_private=true)<br/>
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MihirSaiDudekula&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=mihirsaidudekula&theme=monokai)](https://git.io/streak-stats)<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MihirSaiDudekula&show_icons=true&locale=en&layout=compact&theme=monokai" alt="ovi" align="center" margin= 4px/>  
- [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mihirsaidudekula&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihirsaidudekula&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+<br/><br/>
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=MihirSaiDudekula&theme=monokai&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<hr/>
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MihirSaiDudekula&bg_color=282a35&color=ffffff&line=ec7696&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
+
+<div align="center">
+<a href='https://koncarne.bandcamp.com/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>

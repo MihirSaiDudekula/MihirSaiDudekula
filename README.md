@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/MihirSaiDudekula"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40"></a>
-  <a href="https://www.linkedin.com/in/mihir-sai-dudekula-4a2100261/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40"></a>
+  <a href="www.linkedin.com/in/mihirsaidudekula"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40"></a>
   <a href="https://www.instagram.com/the_og_mihir/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40"></a>
   <a href="https://codepen.io/MihirSaiDudekula"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codepen" height="40"></a>
 </p>
@@ -38,40 +38,34 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mihirsaidudekula&theme=monokai&hide_border=false&include_all_commits=true&show_icons=true&count_private=true" width="800">
+  <img src="https://github-readme-stats.vercel.app/api?username=mihirsaidudekula&theme=monokai&hide_border=false&include_all_commits=true&show_icons=true&count_private=true" width="500">
   <br/>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MihirSaiDudekula&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" width="800">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MihirSaiDudekula&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" width="500">
   </a>
   <br/>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=mihirsaidudekula&theme=monokai" width="800">
+    <img src="https://streak-stats.demolab.com?user=mihirsaidudekula&theme=monokai" width="500">
   </a>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MihirSaiDudekula&show_icons=true&locale=en&layout=compact&theme=monokai" alt="ovi" width="800">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MihirSaiDudekula&show_icons=true&locale=en&layout=compact&theme=monokai" alt="ovi" width="500">  
   <br/>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mihirsaidudekula&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" width="800">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mihirsaidudekula&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" width="250">
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihirsaidudekula&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" width="800">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihirsaidudekula&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" width="250">
   </a>
 </div>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MihirSaiDudekula&theme=monokai&no-frame=false&no-bg=false&margin-w=4" width="800">
+    <img src="https://github-profile-trophy.vercel.app/?username=MihirSaiDudekula&theme=monokai&no-frame=false&no-bg=false&margin-w=4" width="1000">
   </a>
 </div>
 
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MihirSaiDudekula&theme=monokai&no-frame=false&no-bg=false&margin-w=4">
-  </a>
-</p>
+<br/>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -80,37 +74,4 @@
 </p>
 
  <hr/> 
- 
-<div align="center">
-  <h2>🏆 Trophies 🏆</h2>
-  <br>
-    
-  ![](https://github-profile-trophy.vercel.app/?username=swapnilrao619&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-  <br/>
-</div>
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=swapnilrao619&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
-    <br/>
-    <br/>
-  <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=swapnilrao619&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-    <br/> 
-  <img width=400 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=swapnilrao619&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://koncarne.bandcamp.com/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>

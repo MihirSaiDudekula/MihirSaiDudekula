@@ -1,3 +1,6 @@
+[![An image of @mihirsaidudekula's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mihirsaidudekula)](https://holopin.io/@mihirsaidudekula)
+
+
 <h1 align="center">Hi there! 👋 I'm <a href="https://www.linkedin.com/in/mihirsaidudekula/" target="_blank">Mihir Sai Dudekula</a></h1>
 
 ### About Me

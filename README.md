@@ -20,8 +20,8 @@
 <br>
 
 <p align="center">
-  <a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40"></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40"></a>
+  <a href="https://github.com/MihirSaiDudekula"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40"></a>
+  <a href="https://www.linkedin.com/in/mihirsaidudekula/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40"></a>
   <a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40"></a>
   <a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codepen" height="40"></a>
 </p>
